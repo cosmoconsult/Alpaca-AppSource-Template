@@ -2,5 +2,5 @@
   "$schema": "https://raw.githubusercontent.com/microsoft/AL-Go-Actions/v9.0/.Modules/settings.schema.json",
   "type": "AppSource App",
   "templateUrl": "https://github.com/cosmoconsult/Alpaca-AppSource@main",
-  "templateSha": "f94e313e1ded0000ac2e4a8162f1b2f637536a18"
+  "templateSha": "64eb5a6c5660fe63f1c9a7762e5aff5f36e4f650"
 }
